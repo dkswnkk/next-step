@@ -7,3 +7,6 @@ Next-Step의 **"TDD, 클린 코드 with Java 16기"** 과정을 진행하면서 
 
 2단계 - 문자열 덧셈 계산기
 - https://github.com/next-step/java-racingcar/pull/4171
+
+3단계 - 자동차 경주
+- https://github.com/next-step/java-racingcar/pull/4266
