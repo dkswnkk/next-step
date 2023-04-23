@@ -5,7 +5,7 @@ Next-Step의 **"TDD, 클린 코드 with Java 16기"** 과정을 진행하면서 
 ## 자동차 경주 - 단위테스트
 https://github.com/next-step/java-racingcar/tree/dkswnkk
 
-1단계 - 학습 테스트 실습
+1단계 - 학습 테스트 실습<br>
 - https://github.com/next-step/java-racingcar/pull/4116
 
 2단계 - 문자열 덧셈 계산기
@@ -26,3 +26,6 @@ https://github.com/next-step/java-lotto/tree/dkswnkk
 
 1단계 - 문자열 계산기
 - https://github.com/next-step/java-lotto/pull/2913
+
+2단계 - 로또(자동)
+- https://github.com/next-step/java-lotto/pull/2933
