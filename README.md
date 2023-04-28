@@ -29,3 +29,7 @@ https://github.com/next-step/java-lotto/tree/dkswnkk
 
 2단계 - 로또(자동)
 - https://github.com/next-step/java-lotto/pull/2933
+
+3단계 - 로또(2등)
+- https://github.com/next-step/java-lotto/pull/3002
+
