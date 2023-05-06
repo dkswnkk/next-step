@@ -1,7 +1,6 @@
 # next-step
 Next-Step의 **"TDD, 클린 코드 with Java 16기"** 과정을 진행하면서 **수행한 모든 미션을 모아놓은 레포지**입니다.
 
-
 ## 자동차 경주 - 단위테스트
 https://github.com/next-step/java-racingcar/tree/dkswnkk
 
@@ -32,4 +31,7 @@ https://github.com/next-step/java-lotto/tree/dkswnkk
 
 3단계 - 로또(2등)
 - https://github.com/next-step/java-lotto/pull/3002
+
+4단계 - 로또(수동)
+- https://github.com/next-step/java-lotto/pull/3120
 
