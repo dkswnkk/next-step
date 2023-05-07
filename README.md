@@ -19,7 +19,6 @@ https://github.com/next-step/java-racingcar/tree/dkswnkk
 5단계 - 자동차 경주(리팩토링)
 - https://github.com/next-step/java-racingcar/pull/4506
 
-
 ## 로또 - TDD
 https://github.com/next-step/java-lotto/tree/dkswnkk
 
@@ -34,4 +33,7 @@ https://github.com/next-step/java-lotto/tree/dkswnkk
 
 4단계 - 로또(수동)
 - https://github.com/next-step/java-lotto/pull/3120
+
+## 사다리타기 - FP, OOP
+https://github.com/next-step/java-ladder/tree/dkswnkk
 
