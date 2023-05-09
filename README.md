@@ -37,3 +37,6 @@ https://github.com/next-step/java-lotto/tree/dkswnkk
 ## 사다리타기 - FP, OOP
 https://github.com/next-step/java-ladder/tree/dkswnkk
 
+1단계 - 스트림, 람다, Optional
+- https://github.com/next-step/java-ladder/pull/1697
+
