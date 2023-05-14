@@ -43,3 +43,5 @@ https://github.com/next-step/java-ladder/tree/dkswnkk
 2단계 - 사다리(생성)
 - https://github.com/next-step/java-ladder/pull/1708
 
+3단계 - 사다리(게임 실행)
+- https://github.com/next-step/java-ladder/pull/1748
