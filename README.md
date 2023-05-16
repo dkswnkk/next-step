@@ -45,3 +45,6 @@ https://github.com/next-step/java-ladder/tree/dkswnkk
 
 3단계 - 사다리(게임 실행)
 - https://github.com/next-step/java-ladder/pull/1748
+
+4단계 - 사다리(리팩터링)
+- https://github.com/next-step/java-ladder/pull/1767
