@@ -48,3 +48,9 @@ https://github.com/next-step/java-ladder/tree/dkswnkk
 
 4단계 - 사다리(리팩터링)
 - https://github.com/next-step/java-ladder/pull/1767
+
+## 수강신청 - 레거시 코드 리팩터링
+https://github.com/next-step/java-lms/tree/dkswnkk
+
+1단계 - 레거시 코드 리팩터링
+- https://github.com/next-step/java-lms/pull/9
