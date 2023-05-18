@@ -54,3 +54,6 @@ https://github.com/next-step/java-lms/tree/dkswnkk
 
 1단계 - 레거시 코드 리팩터링
 - https://github.com/next-step/java-lms/pull/9
+
+2단계 - 수강신청(도메인 모델)
+- https://github.com/next-step/java-lms/pull/15
