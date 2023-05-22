@@ -57,3 +57,6 @@ https://github.com/next-step/java-lms/tree/dkswnkk
 
 2단계 - 수강신청(도메인 모델)
 - https://github.com/next-step/java-lms/pull/15
+
+3단계 - 수강신청(DB 적용)
+- https://github.com/next-step/java-lms/pull/53
