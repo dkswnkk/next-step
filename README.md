@@ -59,4 +59,4 @@ https://github.com/next-step/java-lms/tree/dkswnkk
 - https://github.com/next-step/java-lms/pull/15
 
 3단계 - 수강신청(DB 적용)
-- https://github.com/next-step/java-lms/pull/53
+- https://github.com/next-step/java-lms/pull/109
