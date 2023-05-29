@@ -60,3 +60,6 @@ https://github.com/next-step/java-lms/tree/dkswnkk
 
 3단계 - 수강신청(DB 적용)
 - https://github.com/next-step/java-lms/pull/109
+
+4단계 - 수강신청(요구사항 추가)
+- https://github.com/next-step/java-lms/pull/141
